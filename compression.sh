@@ -12,4 +12,4 @@ else
     exit 1
 fi
 
-bash /Users/thecjgcjg/sites/compression-scripts/scripts/$COMPRESSION_FORMAT/$COMPRESSION_TYPE.sh $COMPRESSION_LOCATION
+bash /Users/thecjgcjg/sites/compression-scripts/scripts/$COMPRESSION_FORMAT/$COMPRESSION_TYPE.sh "$COMPRESSION_LOCATION"
