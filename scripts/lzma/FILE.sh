@@ -1,2 +1,2 @@
 #!/bin/bash
-/usr/local/bin/plzip -k $1
+/usr/local/bin/plzip -k "$1"

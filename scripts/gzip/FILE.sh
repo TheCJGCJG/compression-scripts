@@ -1,2 +1,2 @@
 #!/bin/bash
-/usr/local/bin/pigz -k $1
+/usr/local/bin/pigz -k "$1"
